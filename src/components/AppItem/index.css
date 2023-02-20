@@ -1,0 +1,51 @@
+.app-list {
+  margin-top: 10px;
+}
+.play-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.image {
+  height: 85px;
+  width: 150px;
+  margin-right: 20px;
+}
+.genre-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.name {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Roboto';
+}
+.genre {
+  font-size: 22px;
+  font-family: 'Roboto';
+  color: #3b82f6;
+}
+.delete-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.duration {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'Roboto';
+  margin-right: 15px;
+}
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.del {
+  color: #ffffff;
+  height: 22px;
+  margin-right: 20px;
+}
